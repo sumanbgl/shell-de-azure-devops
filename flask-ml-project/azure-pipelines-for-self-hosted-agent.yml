@@ -5,7 +5,7 @@
 trigger:
 - main
 
-# TODO: Replace the agent pool name
+# the agent pool name
 pool: udacityshellagentpool
 
 variables:
