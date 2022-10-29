@@ -8,10 +8,9 @@ on a self-hosted agent Continuous Delivery was set up to automate deployment of 
 https://github.com/sumanbgl/shell-de-azure-devops.git is the github repo with the code for this project.
 
 ## Project Plan
-<TODO: Project Plan
 
-* ![Trello board](https://trello.com/b/cgVCU8Uq/azure-devops-for-shell)
-* ![Project plan](https://github.com/sumanbgl/shell-de-azure-devops/blob/master/Project%20Plan.xlsx)
+* https://trello.com/b/cgVCU8Uq/azure-devops-for-shell
+* https://github.com/sumanbgl/shell-de-azure-devops/blob/master/Project%20Plan.xlsx
 
 ## Instructions
 
