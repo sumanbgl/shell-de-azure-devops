@@ -110,7 +110,7 @@ before it is merged to the main stream.
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
+
 
 ## Continuous Integration Status Badge
 [![Python application test with Github Actions](https://github.com/sumanbgl/shell-de-azure-devops/actions/workflows/pythonapp.yml/badge.svg?branch=master&event=push)](https://github.com/sumanbgl/shell-de-azure-devops/actions/workflows/pythonapp.yml)
