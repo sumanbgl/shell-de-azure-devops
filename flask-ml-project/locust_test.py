@@ -1,13 +1,11 @@
 from locust import HttpUser, task, between
 
 
-class QuickstartUser(HttpUser):
+class LocustTest(HttpUser):
     wait_time = between(1, 2)
 
     @task(5)
     def test_predict(self):
-        self.client.get("/hello")
-        self.client.get("/world")
         self.client.post("https://suman-flask-ml-service.azurewebsites.net:443/predict", json={
             "CHAS": {
                 "0": 0
