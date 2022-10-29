@@ -10,8 +10,8 @@ https://github.com/sumanbgl/shell-de-azure-devops.git is the github repo with th
 ## Project Plan
 <TODO: Project Plan
 
-* ![https://trello.com/b/cgVCU8Uq/azure-devops-for-shell](Trello board)
-* A link to a spreadsheet that includes the original and final project plan>
+* ![Trello board](https://trello.com/b/cgVCU8Uq/azure-devops-for-shell)
+* ![Project plan](https://github.com/sumanbgl/shell-de-azure-devops/blob/master/Project%20Plan.xlsx)
 
 ## Instructions
 
